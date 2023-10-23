@@ -8,7 +8,8 @@ Import numpy into the editor
 ### Step 2: 
 Input the co-ordinates to calculate the distance between them
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](https://github.com/anandarakshan/DISTANCE-BETWEEN-TWO-POINTS/assets/139217934/36a4b71b-836b-474b-8b37-6fbb3f57f06f)
+
 ### Step 4: 
 Print the solution
 ### Step 5: 
@@ -26,7 +27,9 @@ result=round(math.sqrt(distance),2)
 print(result)
 ```
 ### OUTPUT:
-![output](/python_3.png)
+![python_3](https://github.com/anandarakshan/DISTANCE-BETWEEN-TWO-POINTS/assets/139217934/f63b8b09-aabb-4dfa-8816-717442714a0f)
+
+
 
 ### RESULT:
 The distance between the two points is displayed successfully.
